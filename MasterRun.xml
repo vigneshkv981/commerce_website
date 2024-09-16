@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MyTestSuite">
+    <test name="MyTest" parallel="tests">
+	
+		
+        <classes>
+            <class name="TestCases.AddManufacture_TestCase"></class>
+        </classes>
+    </test>
+</suite>
